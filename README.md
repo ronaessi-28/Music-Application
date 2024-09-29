@@ -35,18 +35,14 @@
 - progressive drag progress bar on song timeline.
 - sound range slider
 - current time of the song is updated per second.
-<p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/drag range slider.jpg"><img src="./readme_img/drag range slider.jpg" alt="slider_img"></a>
-</p>
+
 
 #### Additional Feature :
 - Music list available containing the list of songs with the artist name and duration of the song.
 - Upon clicking any song on the list itself, the song will start playing.
 - the song is which is being currently played will be displayed as now playing.
 - every time you open the website, random song is played.
-<p>
-    <a href="https://github.com/yashk9293/Music-Player/blob/main/readme_img/music-list.png"><img src="./readme_img/music-list.png" alt="music-list"></a>
-</p>
+
 
 ### Built With - 
 <div>
@@ -55,16 +51,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
 </div>
 <br>
-
-**Live Demo** : https://yashk9293.github.io/Music-Player/
-
-## Author
-
-👤 **Yash Kumar**
-
-- Github: [@githubhandle](https://github.com/yashk9293)
-- Twitter: [@twitterhandle](https://twitter.com/Yashk_9293)
-- Linkedin: [linkedin](https://www.linkedin.com/in/yashk9293/)
 
 ### Prerequisites
 
