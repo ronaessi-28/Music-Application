@@ -1,5 +1,5 @@
 let allMusic = [
-    {
+    { 
         name: "Shape-of-You", 
         artist: "Ed Sheeran",
         img: "music-1",
