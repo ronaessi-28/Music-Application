@@ -4,7 +4,7 @@ let allMusic = [
         artist: "Ed Sheeran",
         img: "music-1",
         src: "music-1"
-    },
+    }, 
     {
         name: "Calm-Down",
         artist: "Rema, Selena Gomez",
