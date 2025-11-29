@@ -1,6 +1,6 @@
 let now_playing = document.querySelector('.now-playing');
 const wrapper = document.querySelector(".wrapper"),
-musicImg = wrapper.querySelector(".img-area img"),  
+musicImg = wrapper.querySelector(".img-area img"),   
 musicName = wrapper.querySelector(".song-details .name"),
 musicArtist = wrapper.querySelector(".song-details .artist"),
 playPauseBtn = wrapper.querySelector(".play-pause"),
@@ -257,4 +257,5 @@ function volume_change() {
 	volume_show.innerHTML = recent_volume.value;
 	mainAudio.volume = recent_volume.value / 100;
 }
+
 
