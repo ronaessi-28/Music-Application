@@ -1,6 +1,6 @@
 let allMusic = [
     { 
-        name: "Shape-of-You", 
+        name: "Shape-of-You",  
         artist: "Ed Sheeran",
         img: "music-1", 
         src: "music-1"
@@ -60,4 +60,5 @@ let allMusic = [
         src: "music-10"
     },
 ];
+
 
