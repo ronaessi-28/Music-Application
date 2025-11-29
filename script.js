@@ -5,7 +5,7 @@ musicName = wrapper.querySelector(".song-details .name"),
 musicArtist = wrapper.querySelector(".song-details .artist"),
 playPauseBtn = wrapper.querySelector(".play-pause"),
 prevBtn = wrapper.querySelector("#prev"),
-nextBtn = wrapper.querySelector("#next"), 
+nextBtn = wrapper.querySelector("#next"),  
 mainAudio = wrapper.querySelector("#main-audio"),
 progressArea = wrapper.querySelector(".progress-area"),
 progressBar = progressArea.querySelector(".progress-bar"),
@@ -257,3 +257,4 @@ function volume_change() {
 	volume_show.innerHTML = recent_volume.value;
 	mainAudio.volume = recent_volume.value / 100;
 }
+
