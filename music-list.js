@@ -5,7 +5,7 @@ let allMusic = [
         img: "music-1", 
         src: "music-1"
     }, 
-    { 
+    {  
         name: "Calm-Down",
         artist: "Rema, Selena Gomez",
         img: "music-2",
@@ -60,6 +60,7 @@ let allMusic = [
         src: "music-10"
     },
 ];
+
 
 
 
